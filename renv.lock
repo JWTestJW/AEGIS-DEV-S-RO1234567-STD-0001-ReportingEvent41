@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "CRAN",
-        "URL": "https://1aegisrspm.akaws-r-alb.onecloudlabo.com/cran-snapshot-20251216/latest"
+        "URL": "https://aegisrspm.akaws-r-alb.onecloudlabo.com/cran-snapshot-20251216/latest"
       }, 
       {
         "Name": "INHOUSE",
@@ -14,7 +14,7 @@
   },
   "Packages": {
     "R6": {
-      "Package": "R6",
+      "Package": "R61",
       "Version": "2.5.1",
       "Source": "Repository",
       "Repository": "RSPM",
